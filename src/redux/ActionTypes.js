@@ -1,0 +1,22 @@
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILURE = 'LOGIN_FAILURE';
+export const SIGNUP_REQUEST = 'SIGNUP_REQUEST';
+export const SIGNUP_SUCCESS = 'SIGNUP_SUCCESS';
+export const SIGNUP_FAILURE = 'SIGNUP_FAILURE';
+export const LOGOUT_REQUEST = 'LOGOUT_REQUEST';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const LOGOUT_FAILURE = 'LOGOUT_FAILURE';
+
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const ADD_PRODUCTS = "ADD_PRODUCTS";
+export const PRODUCTS_LOADING = 'PRODUCTS_LOADING';
+export const PRODUCTS_FAILED = 'PRODUCTS_FAILED';
+
+export const ADD_REVIEW = 'ADD_REVIEW';
+export const ADD_REVIEWS = 'ADD_REVIEWS';
+export const REVIEWS_FAILED = 'REVIEWS_FAILED';
+
+export const ADD_ORDER = 'ADD_ORDER';
+export const ADD_ORDERS = 'ADD_ORDERS';
+export const ORDERS_FAILED = 'ORDERS_FAILED';
